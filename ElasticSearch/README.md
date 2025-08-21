@@ -1,4 +1,4 @@
-# CloudByteHub.ai — Coding Game (ElasticSearch Safe Showcase)
+# CloudByteHub.ai — Coding Game (ElasticSearch)
 
 This pack contains a **non-sensitive**, public-facing sample integrating ElasticSearch with Java (Spring Boot).
 It demonstrates search and analytics capabilities without exposing any client IP or proprietary data.
